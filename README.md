@@ -62,7 +62,7 @@ dictionary, it stuffs the associated Thing_Id into a slot in the
 Command.
 
 A Do_Command function figures out what to do.  Each verb has a pointer
-to a procedure (in Ada terms, an access to a procedure) that does the
+to a procedure (in Ada terms, an "access" to a procedure) that does the
 work for that verb.
 
 Special cases are what allow games to differ.  Some of the special
