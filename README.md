@@ -29,7 +29,7 @@ indexed by object id & whose values were other object ids.
 I wondered how well that style worked for writing parser games.
 
 As I thought about how to implement it, I guessed that Ada might work
-well for the project.  (I have used Ada professionally, but I dabble
+well for the project.  (I have NOT used Ada professionally, but I dabble
 in Ada occasionally.)
 
 What I learned
