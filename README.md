@@ -36,7 +36,7 @@ What I learned
 --------------
 
 * global data structures worked well for this
-* simple data strucutres worked well
+* simple data structures worked well
 * Ada worked well, in particular because of the control it allows when initializing arrays
 
 I had hoped to compile the Ada program into WebAssembly & offer it as
