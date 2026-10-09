@@ -1,0 +1,38 @@
+
+You begin in the kitchen.
+
+(Optional)
+read note
+
+VISIT THE FOLLOWING 4 ROOMS IN ANY ORDER
+----------------------------------------
+
+north
+take kettle
+south
+
+east
+take funnel
+west
+
+west
+take mug
+east
+
+down
+take bag
+search bag
+up
+
+MAKE THE COFFEE
+---------------
+
+wash mug
+wash funnel
+drop kettle
+make coffee
+
+COMPLETE THE GAME
+-----------------
+
+up
